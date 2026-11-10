@@ -1,0 +1,30 @@
+# Секреты
+.env
+.env.*
+
+# Исключаем шаблон с примером переменных
+!.env.example
+
+# Виртуальное окружение
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+
+# База данных
+*.db
+*.db-shm
+*.db-wal
+
+# Резервные копии
+backups/
+
+# Логи
+logs/
+*.log
