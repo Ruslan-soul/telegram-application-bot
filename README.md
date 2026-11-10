@@ -80,7 +80,7 @@ telegram_bot/
 ### 1. Клонирование проекта
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Ruslan-soul/telegram-application-bot.git
 cd telegram_bot
 ```
 
@@ -155,5 +155,6 @@ python -m compileall -q bot
 
 ## Статус проекта
 
-Проект находится на этапе подготовки к публикации и дальнейшего развития.
+Проект опубликован на GitHub и готов к демонстрации.
+Все 102 автоматических теста успешно пройдены.
 
